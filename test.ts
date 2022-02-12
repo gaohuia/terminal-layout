@@ -1,11 +1,4 @@
 
-import { terminal } from "terminal-kit";
-
-// import { Block } from "./src/block";
-// import { VerticalContainer } from "./src/container";
-// import { Pos, RenderContext, Size } from "./context";
-// import { ListView, Text } from "./controls";
-
 import {
   VerticalContainer,
   Pos,
