@@ -45,5 +45,6 @@ class ListView extends Block {
 
 
 export {
-  ListView, Text
+  ListView,
+  Text,
 }
