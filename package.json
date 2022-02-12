@@ -1,0 +1,11 @@
+{
+  "name": "test-terminal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.17",
+    "terminal-kit": "^2.4.0",
+    "ts-node": "^10.5.0"
+  }
+}
