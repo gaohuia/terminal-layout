@@ -1,10 +1,19 @@
 
 import { terminal } from "terminal-kit";
 
-import { Block } from "./block";
-import { VerticalContainer } from "./container";
-import { Pos, RenderContext, Size } from "./context";
-import { ListView, Text } from "./controls";
+// import { Block } from "./src/block";
+// import { VerticalContainer } from "./src/container";
+// import { Pos, RenderContext, Size } from "./context";
+// import { ListView, Text } from "./controls";
+
+import {
+  VerticalContainer,
+  Pos,
+  RenderContext,
+  Size,
+  ListView,
+  Text,
+} from "./index";
 
 const container = new VerticalContainer([5, 5]);
 
